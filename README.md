@@ -28,13 +28,13 @@
 ### Installation
 
 - First Clone the Repository & Run the setup File
-``
+```
 pkg update -y && pkg upgrade -y
 pkg install git wget -y
 git clone https://github.com/SUBUR78990/ubuntu20.04.git
 cd ubuntu20.04
 bash setup.sh
-``
+```
   
 - Then Restart your Termux & Type the following commands
 
